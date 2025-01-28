@@ -32,14 +32,5 @@ You can install missing libraries using `pip install <library_name>`.
 2. Follow the provided instructions to complete the assignment.
 3. Write your code in the marked sections (`# Write your code here`) only.
 4. Do not modify the existing code outside of the marked sections.
-5. Save and rename the files as instructed:
-   - `.ipynb` file: `FirstName_LastName_Assignment1.ipynb`
-   - `.py` file: `FirstName_LastName_Assignment1.py`
 
-## Notes
-- Submission must include both `.ipynb` and `.py` files.
-- Review the dataset stored in the variable `mydata` and process it as per the instructions.
-- Test your implementation on the evaluation samples in `data_eval`.
 
-## Contact
-For any questions or issues, please reach out to [Your Email Address].
